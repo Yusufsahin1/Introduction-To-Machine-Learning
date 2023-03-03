@@ -1,1 +1,1 @@
-# Intoduction-To-Machine-Learning---Lab
+# Intoduction-To-Machine-Learning dersi lab uygulamaları
